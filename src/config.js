@@ -14,7 +14,7 @@ module.exports = {
     suggestionLogsChannelId: "862126837110800414",
     errorLogsChannelId: "878431491581964328",
     loginLogsChannelId: "880122897472036894",
-    defaultPrefix: process.env.BOT_PREFIX ?? "w/",
+    defaultPrefix: process.env.BOT_PREFIX ?? "n!",
     votersRole: "852512614789808138",
     roles: {
         voteReminder: "886776592666353724",
